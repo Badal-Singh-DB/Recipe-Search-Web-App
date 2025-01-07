@@ -1,7 +1,9 @@
 # Recipe Search Web App
 
-A web application that helps users find and explore various recipes based on the ingredients they have. The app provides an intuitive interface for searching recipes, viewing detailed instructions, and saving favorite recipes for future reference.
+Recipe Finder Web Application
+Recipe Finder is a recipe web application, where a user can search for a variety of recipes and find the ingredients and quantities needed to make each recipe item. Also, favorite recipe items can be saved in the browser's local storage. It is easy to find different recipes for vegetarians and meat eaters, as well as those who want to lose weight.
 
+You're one-stop for recipes, It is the best app for any type of cooking and cooking level. Browse what's trending, plan your meals with our grocery list tool, and browse recipes by ingredient. There's nothing like a well-prepared meal to make you feel like a culinary genius!
 ## Features
 
 - **Search Recipes**: Enter the ingredients you have, and the app will suggest relevant recipes.
